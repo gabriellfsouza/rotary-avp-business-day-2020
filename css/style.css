@@ -1299,6 +1299,8 @@ header .main-header .header-info .btn-style-one:hover {
     font-weight: 400;
     padding-top: 6px;
     padding-bottom: 7px;
+    width: 100%;
+    padding: 10px;
 }
 
 .ticket-price .inner-box .btn-style-two {

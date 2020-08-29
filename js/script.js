@@ -273,13 +273,14 @@
 
 
 	// product-description section
-	var d = new Date(new Date().getTime() + 360 * 100 * 100 * 2000);
-
+	// var d = new Date(new Date().getTime() + 360 * 100 * 100 * 2000);
+  var d = new Date(2020,9,6,9-3,0,0,0);
 	    // default example
 	    simplyCountdown('.simply-countdown-one', {
 	        year: d.getFullYear(),
 	        month: d.getMonth() + 1,
-	        day: d.getDate()
+          day: d.getDate(),
+          hours: d.getHours()
 	    });
 
 
