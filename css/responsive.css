@@ -1,0 +1,314 @@
+
+@media only screen and (max-width: 1100px){
+
+}
+
+@media only screen and (max-width: 1024px){
+
+
+}
+
+@media only screen and (min-width: 992px){
+	.sidebar {
+        padding-left: 50px;    
+    }
+    .row-25 {
+	    margin-right: -25px;
+	    margin-left: -25px;
+	}
+	.row-20 {
+		margin-right: -20px;
+		margin-left: -20px;
+	}
+
+}
+
+@media only screen and (max-width: 992px){
+	.travel-information .section-title .btn-style-two {
+	    bottom: -75px;
+	    z-index: 99;
+	}
+	.recent-news {
+		text-align: center;
+	}
+	.recent-news .content p {
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+	.subscribe .section-title p {
+		margin-bottom: 30px;
+	}
+	.navbar .navbar-collapse > ul > li > a {
+		padding-bottom: 20px;
+	}
+	.rev_slider_wrapper .simply-countdown > .simply-section .simply-amount{
+	  margin-bottom: 40px;
+	}
+	.rev_slider_wrapper h4.slide-info {
+	    padding-top: 50px;
+	}
+	.about .content-box {
+		padding-top: 50px;
+	}
+	.about {
+	    padding-top: 70px;
+	    padding-bottom: 60px;
+	}
+
+	.sponsors .sponsor-item .sponsors-column {
+    width: 33%;
+}
+
+
+}
+
+
+@media only screen and (max-width: 767px){
+	
+	.stricky-fixed {
+	    position: relative;
+	    display: none;
+	    visibility: hidden;
+	}
+	
+	.navbar .navbar-collapse > ul {
+	    padding-top: 0px;
+	}
+
+	.main-header .nav-outer {
+	    position: relative;
+	    padding: 0;
+	    width: 100%;
+	}
+
+	header .main-header .header-info {
+	    position: absolute;
+	    right: 0;
+	    top: 18px;
+	    z-index: 99;
+	}
+	.home-one .main-header {
+		padding-top: 0;
+	}
+	.navbar-toggle {
+	    border: 1px solid #000;
+	    margin: 0;
+	    top: 50%;
+	    margin-top: 12px;
+	    left: 0;
+	    float: none;
+	}
+	.home-one .navbar-toggle {
+	    border: 1px solid #fff;
+	}
+
+
+	.mainmenu-area {
+	    display: block;
+	}
+
+	.navbar .collapse.in,
+	.navbar .collapsing{
+		max-height: 300px;
+		padding:0px;
+		border:1px solid #ffffff;
+		border-radius:3px;
+		-ms-border-radius:3px;
+		-moz-border-radius:3px;
+		-webkit-border-radius:3px;
+		-o-border-radius:3px;	
+	}
+
+	.mainmenu-area .navbar-header{
+		position:relative;
+		float:none;
+		display:block;
+		width:100%;
+		padding:4px 0px 15px;
+		right:0px;
+		z-index:12;
+	}
+
+
+	
+	.navbar .navbar-header .navbar-toggle .icon-bar{
+		background:#000;	
+	}
+	.home-one .header .navbar .navbar-header .navbar-toggle .icon-bar{
+		background:#fff;	
+	}
+
+	.navbar .navbar-collapse > ul {
+	}
+	.navbar .main-menu .navbar-nav{
+		float:none !important;
+		margin:0px;
+		width:100%;
+		background: #000000;
+	}
+	.navbar .navbar-collapse ul > li:first-child > a {
+	    padding-left: 10px;
+	}
+	.navbar .navbar-collapse ul > li{
+		margin:0px;
+		float:none;
+		width:100%;
+	}
+	.main-header.stricky-fixed .navbar .navbar-collapse > ul > li > a {
+		line-height: 22px !important;
+	}
+
+	.navbar .navbar-collapse ul > li > a{
+		padding:10px 10px !important;
+	}
+	
+	.navbar .navbar-collapse > ul > li > a:after{
+		display:none;	
+	}
+	
+	.navbar .navbar-collapse ul > li > ul,
+	.navbar .navbar-collapse ul > li > ul > li > ul{
+		position:relative;
+		border:none;
+		float:none;
+		visibility:visible;
+		opacity:1;
+		display:none;
+		left:auto !important;
+		right:auto !important;
+		top:auto !important;
+		width:100%;
+		background:#000;
+		border-radius:0px;
+		-webkit-border-radius:0px;
+		-ms-border-radius:0px;
+		-o-border-radius:0px;
+		-moz-border-radius:0px;
+		transition:none !important;
+		-webkit-transition:none !important;
+		-ms-transition:none !important;
+		-o-transition:none !important;
+		-moz-transition:none !important;
+	}
+	
+	.navbar .navbar-collapse ul > li > ul,
+	.navbar .navbar-collapse ul > li > ul > li > ul{
+		border-top:1px solid rgba(255,255,255,1) !important;	
+	}
+	
+	.navbar .navbar-collapse ul > li,
+	.navbar .navbar-collapse ul > li > ul > li,
+	.navbar .navbar-collapse ul > li > ul > li > ul > li{
+		border-top:1px solid rgba(255,255,255,1) !important;	
+	}
+	
+	.navbar .navbar-collapse ul > li:first-child{
+		border:0px !important;	
+	}
+	
+	.navbar .navbar-collapse ul > li > a,
+	.navbar .navbar-collapse ul > li > ul > li > a,
+	.navbar .navbar-collapse ul > li > ul > li > ul > li > a{
+		line-height:22px !important;
+		color:#ffffff;
+		background:#000 !important;
+		text-align: left;
+	}
+
+	.navbar .navbar-collapse ul li.dropdown .dropdown-btn{
+		display:block !important;
+	}
+	
+	.navbar .navbar-collapse ul li.dropdown:after,
+	.navbar .navbar-collapse ul > li.dropdown > a::after{
+		display:none !important;	
+	}
+	.width-3 {
+	    width: 100%;
+	}
+
+
+
+	/*====================================*/
+
+
+	.travel-information .content p {
+	    margin: 0 auto;
+	    margin-bottom: 20px;
+	}
+	.travel-information .single-item {
+	    text-align: center;
+	}
+	.travel-information .icon-box .inner-box {
+	    display: block;
+	}
+	.travel-information .section-title h2 {
+	    text-align: center;
+	}
+	.sponsors .sponsor-item .sponsors-column {
+	    width: 50%;
+	}
+
+
+
+
+
+
+
+}
+
+@media (max-width: 640px) {
+	.tp-caption {display: none !important;}	
+}
+
+
+
+
+
+@media only screen and (max-width: 599px){
+	.travel-information .section-title {
+	    margin-bottom: 30px;
+	}
+}
+
+@media only screen and (max-width: 499px){
+	.sponsors .sponsor-item img {
+	    width: 100%;
+	}
+	.map-section .map-info {
+	    padding: 20px;
+	    left: 10px;
+	}
+
+
+}
+
+@media only screen and (max-width: 399px){
+	.map-section .map-info {
+	    display: none;
+	}
+	.fact-counter .column {
+	    width: 100%;
+	}
+
+}
+
+
+@media(max-width: 767px) {
+	.main-header .logo {width: 100%;text-align: center;}
+	.our-team .owl-controls {position: static;text-align: center;margin-top: 20px;}
+	.our-team .owl-controls .owl-next, 
+	.our-team .owl-controls .owl-prev {position: relative;top: auto;left:auto;right: auto;bottom: auto;display: inline-block;margin: 0 10px !important;}
+	.footer-bottom .copy-right, 
+	.footer-bottom .menu {text-align: center;width: 100%;}
+	.footer-bottom .menu ul li {float: none;display: inline-block;}
+	.footer-bottom .copy-right {line-height: 20px;padding-top: 30px;} 
+	.gallery-section .filter-tabs {text-align: center;}
+	.mainmenu-area {padding-top: 10px;padding-bottom: 10px;}
+	.page-title h2 {font-size: 35px;}
+	.error-404 input[type="text"], .error-404 input[type="email"] {max-width: 215px;}
+	.schedule-page .style-two.event-schedule .schedule-tab-title .table {width: 1170px;}
+	.schedule-page .style-two.event-schedule .inner-box {overflow: auto;}
+	.event-schedule .inner-box .table {width: 1170px;}
+	.blog .single-column {padding: 0 15px;}
+}
