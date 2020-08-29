@@ -435,7 +435,8 @@ header .main-header .header-info .btn-style-one:hover {
     font-family: 'Open sans', sans-serif;
     margin-bottom: 40px
 }
-.about .content-box .title-text span {
+.about .content-box .title-text span,
+.about .content-box .text  span {
     color: #fe702a;
 }
 
