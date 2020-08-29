@@ -4,10 +4,10 @@
  * 1.1 -> Basic Structure
  * -----------------------------------------------
 */
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+/* @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,300italic,400italic,500,500italic,600,700,600italic,700italic);
-
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,300italic,400italic,500,500italic,600,700,600italic,700italic); */
+@import url(./fonts-custom.css);
 
 @import url(../assets/bootstrap/css/bootstrap.min.css);
 @import url(../assets/font-awesome/css/font-awesome.min.css);
