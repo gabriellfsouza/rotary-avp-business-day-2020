@@ -66,7 +66,8 @@
 
 .main-header.stricky-fixed {
 	position: fixed;
-    background: #000;
+    /* background: #000; */
+    background: rgb(114,51,143);
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -446,7 +447,8 @@ header .main-header .header-info .btn-style-one:hover {
 }
 
 .about .content-box .text p {
-    color: #969ea3;
+    /* color: #969ea3; */
+    color: #606364;
     margin-bottom: 26px;
     font-size: 15px;
     max-width: 560px;
@@ -1097,10 +1099,10 @@ header .main-header .header-info .btn-style-one:hover {
 .ticket-price {
     position: relative;
     padding: 140px 0 77px;
-    background-image: url(../images/background/2.jpg);
+    /* background-image: url(../images/background/2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center center; */
 }
 .ticket-price:before {
     content: '';
@@ -3936,14 +3938,17 @@ header .main-header .header-info .btn-style-one:hover {
 }
 
 .simply-section.simply-hours-section {
-  color: #24f8fb;
+  /* color: #24f8fb; */
+  color: #ffb400;
 }
 
 .simply-section.simply-minutes-section {
-  color: #e748ff;
+  /* color: #e748ff; */
+  color: #ffb400;
 }
 .simply-section.simply-seconds-section {
-  color: #01dc68;
+  /* color: #01dc68; */
+  color: #ffb400;
 }
 
 

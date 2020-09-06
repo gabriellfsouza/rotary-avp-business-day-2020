@@ -52,7 +52,7 @@
 	}
 	.about {
 	    padding-top: 70px;
-	    padding-bottom: 60px;
+      padding-bottom: 60px;
 	}
 
 	.sponsors .sponsor-item .sponsors-column {
@@ -79,7 +79,8 @@
 	    position: relative;
 	    padding: 0;
 	    width: 100%;
-	}
+  }
+
 
 	header .main-header .header-info {
 	    position: absolute;
