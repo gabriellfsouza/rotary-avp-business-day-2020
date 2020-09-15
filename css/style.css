@@ -331,7 +331,8 @@ header .main-header .header-info .btn-style-one:hover {
     top: 0px;
     width: 100%;
     height: 100%;
-    background: rgba(58, 81, 104, 0.91);
+    /* background: rgba(58, 81, 104, 0.91); */
+    background: rgba(100,57,120,0.80);
     z-index: 0;
 }
 .rev_slider_wrapper.overly-2 ul li:after {

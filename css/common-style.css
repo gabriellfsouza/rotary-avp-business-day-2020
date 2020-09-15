@@ -58,8 +58,8 @@ body {
 	font-size:16px;
 	color:#292929;
 	font-weight:400;
-  /* background:#ffffff; */
-  background: #fadeff;
+  background:#ffffff;
+  /* background: #fadeff; */
 }
 
 @media (min-width: 1200px) {
