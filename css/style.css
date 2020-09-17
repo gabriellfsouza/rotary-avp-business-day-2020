@@ -888,7 +888,8 @@ header .main-header .header-info .btn-style-one:hover {
     text-transform: uppercase;
 }
 .event-schedule .table>thead>tr>th {
-    background: #fe6d25;
+    /* background: #fe6d25; */
+    background: rgb(100,57,120);
 }
 .event-schedule .table>thead>tr>th:nth-child(2) {
     padding-left: 65px;
